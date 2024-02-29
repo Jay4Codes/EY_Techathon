@@ -1,0 +1,5 @@
+data/
+mydata/
+normalized_images/
+resized_images/
+node_modules/
