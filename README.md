@@ -1,5 +1,3 @@
-# Streamlit-LLM-Hackathon
-
 ## Tech-Stack
 - Web App - Streamlit
 - Vector Database  - Weaviate
